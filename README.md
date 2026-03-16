@@ -44,6 +44,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +134,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
