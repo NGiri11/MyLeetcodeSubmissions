@@ -71,6 +71,7 @@ I will push all my leetcode problems here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,4 +116,17 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
