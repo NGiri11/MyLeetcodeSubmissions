@@ -44,6 +44,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Hash Table
 |  |
@@ -137,5 +138,6 @@ I will push all my leetcode problems here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
