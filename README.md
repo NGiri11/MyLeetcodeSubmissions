@@ -77,6 +77,7 @@ I will push all my leetcode problems here.
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
 |  |
 | ------- |
