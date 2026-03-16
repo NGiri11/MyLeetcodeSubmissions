@@ -7,6 +7,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Math
 |  |
@@ -41,4 +42,12 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
