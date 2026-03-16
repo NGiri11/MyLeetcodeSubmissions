@@ -22,6 +22,7 @@ I will push all my leetcode problems here.
 | [0007-reverse-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
+| [1622-fancy-sequence](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
@@ -96,4 +97,12 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
