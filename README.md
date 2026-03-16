@@ -129,4 +129,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
