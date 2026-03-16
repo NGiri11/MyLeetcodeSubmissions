@@ -8,6 +8,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [0001-two-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ I will push all my leetcode problems here.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -58,4 +60,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
