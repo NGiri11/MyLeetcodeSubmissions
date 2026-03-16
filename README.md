@@ -70,6 +70,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,8 +78,13 @@ I will push all my leetcode problems here.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
