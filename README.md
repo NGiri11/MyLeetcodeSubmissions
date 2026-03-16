@@ -15,6 +15,7 @@ I will push all my leetcode problems here.
 | [0002-add-two-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +54,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
