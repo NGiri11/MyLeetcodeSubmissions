@@ -46,11 +46,13 @@ I will push all my leetcode problems here.
 | [0002-add-two-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search
 |  |
 | ------- |
