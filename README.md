@@ -14,6 +14,7 @@ I will push all my leetcode problems here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -48,6 +49,7 @@ I will push all my leetcode problems here.
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -162,6 +164,7 @@ I will push all my leetcode problems here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
