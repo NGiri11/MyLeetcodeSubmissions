@@ -88,6 +88,7 @@ I will push all my leetcode problems here.
 | [0021-merge-two-sorted-lists](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ I will push all my leetcode problems here.
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -175,4 +177,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
