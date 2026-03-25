@@ -24,6 +24,7 @@ I will push all my leetcode problems here.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
@@ -59,6 +60,7 @@ I will push all my leetcode problems here.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -69,6 +71,7 @@ I will push all my leetcode problems here.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,4 +187,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
