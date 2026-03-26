@@ -84,6 +84,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [0001-two-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
@@ -122,6 +123,7 @@ I will push all my leetcode problems here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -187,6 +189,7 @@ I will push all my leetcode problems here.
 | [1009-complement-of-base-10-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -234,4 +237,12 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
