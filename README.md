@@ -36,6 +36,7 @@ I will push all my leetcode problems here.
 | [0009-palindrome-number](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [1622-fancy-sequence](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1622-fancy-sequence) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
@@ -178,6 +179,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Enumeration
 |  |
 | ------- |
