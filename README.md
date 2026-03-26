@@ -14,6 +14,7 @@ I will push all my leetcode problems here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -44,6 +45,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -182,6 +184,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1009-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
@@ -212,4 +215,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
