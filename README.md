@@ -22,6 +22,7 @@ I will push all my leetcode problems here.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -66,6 +67,7 @@ I will push all my leetcode problems here.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -134,6 +136,7 @@ I will push all my leetcode problems here.
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -172,11 +175,13 @@ I will push all my leetcode problems here.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
@@ -202,6 +207,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
