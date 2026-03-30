@@ -52,6 +52,7 @@ I will push all my leetcode problems here.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Heap (Priority Queue)
 |  |
@@ -92,6 +93,7 @@ I will push all my leetcode problems here.
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@ I will push all my leetcode problems here.
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
