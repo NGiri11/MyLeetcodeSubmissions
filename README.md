@@ -141,6 +141,7 @@ I will push all my leetcode problems here.
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +183,7 @@ I will push all my leetcode problems here.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
