@@ -136,6 +136,7 @@ I will push all my leetcode problems here.
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -235,6 +236,7 @@ I will push all my leetcode problems here.
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
