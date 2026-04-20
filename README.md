@@ -21,6 +21,7 @@ I will push all my leetcode problems here.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
@@ -141,6 +142,7 @@ I will push all my leetcode problems here.
 | [0004-median-of-two-sorted-arrays](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -183,6 +185,7 @@ I will push all my leetcode problems here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
