@@ -14,6 +14,7 @@ I will push all my leetcode problems here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+| [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -61,6 +62,7 @@ I will push all my leetcode problems here.
 | [0007-reverse-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
+| [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -276,6 +278,7 @@ I will push all my leetcode problems here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
