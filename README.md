@@ -22,6 +22,7 @@ I will push all my leetcode problems here.
 | [1559-detect-cycles-in-2d-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -255,6 +256,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -339,6 +341,7 @@ I will push all my leetcode problems here.
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
 |  |
 | ------- |
