@@ -14,6 +14,7 @@ I will push all my leetcode problems here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -63,6 +64,7 @@ I will push all my leetcode problems here.
 | [0007-reverse-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0788-rotated-digits) |
@@ -98,6 +100,7 @@ I will push all my leetcode problems here.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1559-detect-cycles-in-2d-grid) |
