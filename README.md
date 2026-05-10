@@ -40,6 +40,7 @@ I will push all my leetcode problems here.
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -304,6 +305,7 @@ I will push all my leetcode problems here.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3225-maximum-score-from-grid-operations) |
