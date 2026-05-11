@@ -4,12 +4,13 @@ public:
         vector<int> answer;
         for (int num : nums) {
             vector<int> temp;
-            while (num) {
+            while (num > 0) {
                 temp.push_back(num % 10);
                 num /= 10;
             }
-            reverse(temp.begin(), temp.end());
-            answer.insert(answer.end(), temp.begin(), temp.end());
+            for (int i = temp.size() - 1; i >= 0; --i) {
+                answer.push_back(temp[i]);
+            }
         }
         return answer;
     }
