@@ -21,7 +21,6 @@ public:
             currentMoves += diff[s];
             minMovesRequired = min(minMovesRequired, currentMoves);
         }
-
         return minMovesRequired;
     }
 };
