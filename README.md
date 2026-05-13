@@ -24,6 +24,7 @@ I will push all my leetcode problems here.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -135,6 +136,7 @@ I will push all my leetcode problems here.
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -151,6 +153,7 @@ I will push all my leetcode problems here.
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
