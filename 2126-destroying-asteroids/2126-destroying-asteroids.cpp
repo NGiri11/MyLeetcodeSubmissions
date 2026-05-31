@@ -1,13 +1,19 @@
 class Solution {
 public:
     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
-        sort(asteroids.begin(), asteroids.end());
+        int counts[100001] = {0};
+        for (int ast : asteroids) {
+            counts[ast]++;
+        }
         long long currentMass = mass;
-        for (int asteroid : asteroids) {
-            if (currentMass >= asteroid) {
-                currentMass += asteroid;
-            } else {
+        for (int i = 1; i <= 100000; ++i) {
+            if (counts[i] == 0) continue;
+            if (currentMass < i) {
                 return false;
+            }
+            currentMass += (long long)i * counts[i];
+            if (currentMass >= 100000) {
+                return true;
             }
         }
         return true;
