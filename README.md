@@ -44,6 +44,7 @@ I will push all my leetcode problems here.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -114,6 +115,7 @@ I will push all my leetcode problems here.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2784-check-if-array-is-good) |
@@ -311,6 +313,7 @@ I will push all my leetcode problems here.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3474-lexicographically-smallest-generated-string) |
