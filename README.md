@@ -219,6 +219,7 @@ I will push all my leetcode problems here.
 | [0024-swap-nodes-in-pairs](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +297,7 @@ I will push all my leetcode problems here.
 | [0061-rotate-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -305,6 +307,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2751-robot-collisions) |
 ## String Matching
 |  |
