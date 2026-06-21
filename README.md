@@ -34,6 +34,7 @@ I will push all my leetcode problems here.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -128,6 +129,7 @@ I will push all my leetcode problems here.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -347,6 +349,7 @@ I will push all my leetcode problems here.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -506,4 +509,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
