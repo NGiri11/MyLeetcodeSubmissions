@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
-        int max_c = *std::max_element(costs.begin(), costs.end());
+        int max_c = *max_element(costs.begin(), costs.end());
         vector<int> freq(max_c + 1, 0);
         for (int c : costs) {
             freq[c]++;
