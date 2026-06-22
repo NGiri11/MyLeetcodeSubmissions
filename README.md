@@ -197,6 +197,7 @@ I will push all my leetcode problems here.
 | [0001-two-sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
+| [1189-maximum-number-of-balloons](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -268,6 +269,7 @@ I will push all my leetcode problems here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -459,6 +461,7 @@ I will push all my leetcode problems here.
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2833-furthest-point-from-origin) |
 ## Tree
