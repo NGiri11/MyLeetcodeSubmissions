@@ -20,6 +20,7 @@ I will push all my leetcode problems here.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
+| [1288-remove-covered-intervals](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1340-jump-game-v) |
@@ -135,6 +136,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
+| [1288-remove-covered-intervals](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
