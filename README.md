@@ -23,6 +23,7 @@ I will push all my leetcode problems here.
 | [1288-remove-covered-intervals](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -141,6 +142,7 @@ I will push all my leetcode problems here.
 | ------- |
 | [0015-3sum](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -226,6 +228,7 @@ I will push all my leetcode problems here.
 | [0013-roman-to-integer](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0013-roman-to-integer) |
 | [0874-walking-robot-simulation](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
