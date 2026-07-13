@@ -509,6 +509,7 @@ I will push all my leetcode problems here.
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3548-equal-sum-grid-partition-ii) |
