@@ -324,6 +324,7 @@ I will push all my leetcode problems here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -379,6 +380,7 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/2751-robot-collisions) |
 ## String Matching
@@ -409,6 +411,7 @@ I will push all my leetcode problems here.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -632,4 +635,8 @@ I will push all my leetcode problems here.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NGiri11/MyLeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
